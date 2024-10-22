@@ -1,22 +1,22 @@
 # 01 - Me
 
-First Name: Michael  
-Last Name: ZIMMERMANN
+# First Name: Michael  
+# Last Name: ZIMMERMANN
 
-Age: 46 years (2024)
+# Age: 46 years (2024)
 
-Country: France  
-Region: Occitanie  
-City: Montpellier/Paris
+# Country: France  
+# Region: Occitanie  
+# City: Montpellier/Paris
 
-Profession & Specialization: 
+# Profession & Specialization: 
 - Agency Manager
 - Sector Manager
 - Account Manager
 - Key Account Manager
 - Talent Acquisition Manager
 
-Industry Knowledge:
+# Industry Knowledge:
 - IT
 - Banking
 - Finance
@@ -29,7 +29,7 @@ Industry Knowledge:
 - Defense
 - Space
 
-Professional Contacts:
+# Professional Contacts:
 - CEO
 - Executives (DO, DC, CFO, HRD, DMK, DCOM, CIO, DT, Risk Management, Innovation, Digital, …)
 - Department Head
@@ -39,12 +39,13 @@ Professional Contacts:
 - Technical Lead
 - Engineer
 
-Passions: 
+# Passions: 
 - Streaming
 - Gaming
 - Painting
 - Technology
 - Digital
 
-Contact: zim.snw@gmail.com  
-LinkedIn: https://www.linkedin.com/in/zimmichael/
+# Contact: 
+- email : zim.snw@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/zimmichael/
