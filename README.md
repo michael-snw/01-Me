@@ -1,13 +1,19 @@
 # 01 - Me
 
-# First Name: Michael  
-# Last Name: ZIMMERMANN
+# First Name: 
+- Michael  
+# Last Name: 
+- ZIMMERMANN
 
-# Age: 46 years (2024)
+# Age: 
+- 46 years (2024)
 
-# Country: France  
-# Region: Occitanie  
-# City: Montpellier/Paris
+# Country: 
+- France  
+# Region: 
+- Occitanie  
+# City: 
+- Montpellier/Paris
 
 # Profession & Specialization: 
 - Agency Manager
